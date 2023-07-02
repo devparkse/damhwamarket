@@ -1,5 +1,5 @@
 # 담화마켓 프로젝트(최종 버전)
-Front-end (React) & Back-end (Spring-Boot) 협업 두번째 팀프로젝트
+Front-end (React) & Back-end (Spring-Boot) 협업 1차 팀프로젝트
 
 ## Project 기획
 
